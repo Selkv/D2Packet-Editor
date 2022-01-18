@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (D2Detour.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+C:\Users\selvi\source\repos\D2Detour\D2Detour\pch.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\selvi\source\repos\D2Detour\D2Detour\pch.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  dllmain.cpp
+C:\Users\selvi\source\repos\D2Detour\D2Detour\dllmain.cpp(4,1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+C:\Users\selvi\source\repos\D2Detour\D2Detour\pch.cpp : message : see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+  Patchmemory.cpp
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(1): warning C4603: '_DEFINE_VARS': macro is not defined or definition is different after precompiled header use
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(1): message : Add macro to precompiled header instead of defining here
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(4): message : use of precompiled header
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(2): warning C4603: '__D2PTRS_ONCE_': macro is not defined or definition is different after precompiled header use
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(2): message : Add macro to precompiled header instead of defining here
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(4): message : use of precompiled header
+  Generating Code...
+C:\Users\selvi\source\repos\D2Detour\D2Detour\dllmain.cpp(22): warning C4715: 'Startup': not all control paths return a value
+  D2Detour.vcxproj -> C:\Users\selvi\source\repos\D2Detour\Debug\D2Packet.dll

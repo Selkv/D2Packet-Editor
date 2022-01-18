@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Patchmemory.cpp
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(1): warning C4603: '_DEFINE_VARS': macro is not defined or definition is different after precompiled header use
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(1): message : Add macro to precompiled header instead of defining here
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(4): message : use of precompiled header
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(2): warning C4603: '__D2PTRS_ONCE_': macro is not defined or definition is different after precompiled header use
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(2): message : Add macro to precompiled header instead of defining here
+C:\Users\selvi\source\repos\D2Detour\D2Detour\Patchmemory.cpp(4): message : use of precompiled header
+  Generating Code...
+C:\Users\selvi\source\repos\D2Detour\D2Detour\dllmain.cpp(22): warning C4715: 'Startup': not all control paths return a value
+  D2Detour.vcxproj -> C:\Users\selvi\source\repos\D2Detour\Release\D2Detour.dll

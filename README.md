@@ -1,5 +1,5 @@
 # D2Packet-Editor
-Simple Diablo 2 Packet Editor Tool for 1.14d
+Simple Diablo 2 Packet Editor Tool for patch 1.14d
 This tool can be used to modify Diablo II Packets.
 
 
